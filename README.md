@@ -87,7 +87,7 @@ Plusieurs axes se dégagent :
 
 ## Se tenir au courant
 * [Krebs on security](https://krebsonsecurity.com/)
-* [Dark Reading](Site d'infos + newsletter)
+* [Dark Reading](https://www.darkreading.com/)
 * [netsparker](https://www.netsparker.com/blog/web-security/)
 * [Common Vulnerabilities and Exposures](http://cve.mitre.org/)
 * [0day](https://0day.today/)
