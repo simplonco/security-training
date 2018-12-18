@@ -1,4 +1,4 @@
-# JavaScript
+# Security
 >_[Training](https://github.com/simplonco/training) / Security_
 
 ![SQL Injection](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
@@ -63,11 +63,18 @@ Plusieurs axes se dégagent :
 * [Pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
 
 ### Online training
+* [Hack this site!](https://www.hackthissite.org/)
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 * [Google Gruyere](http://google-gruyere.appspot.com/)
 * [RootMe](https://www.root-me.org/?lang=en)
 * [SlaveHack](http://www.slavehack.com/)
 * [SlaveHack2](https://www.slavehack2.com/)
+* [Game of Hacks](http://www.gameofhacks.com/)
+* [HackThis!](https://www.hackthis.co.uk/)
+* [Hackxor](https://hackxor.net/)
+* [Over the wire](http://overthewire.org/wargames/)
+* [Ringzer](https://ringzer0team.com/challenges)
+* [Solve password riddles](https://0xf.at/)
 
 ## Ressources
 * [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
@@ -77,21 +84,6 @@ Plusieurs axes se dégagent :
 * [TEDx - L'esprit hacker](https://www.youtube.com/watch?v=FtYW4sPefhY)
 * [Security resources for software teams | Sqreen](https://www.sqreen.io/resources)
 * [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-
-### Jeux
-* [Game of Hacks](http://www.gameofhacks.com/)
-* [HackThis!](https://www.hackthis.co.uk/)
-* [Hackxor](https://hackxor.net/)
-* [Over the wire](http://overthewire.org/wargames/)
-* [Ringzer](https://ringzer0team.com/challenges)
-* [Solve password riddles](https://0xf.at/)
-
-## Données personnelles
-* [Privacy by design, un premier pas vers la RGPD](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
-* [Connaître ses traces digitales ](https://myshadow.org/)
-* [Réaliser une data detox](https://myshadow.org/)
-* [RDV tech sur la RGPD](http://frenchspin.fr/2018/03/le-rdv-tech-236-gdrpdprdd/)
-* [De la doc sur le Drive](https://drive.google.com/drive/folders/1kSp39gxxBLb-_FLR5P3Kke97aGho6Su0?usp=sharing)
 
 ## Se tenir au courant
 * [Krebs on security](https://krebsonsecurity.com/)
