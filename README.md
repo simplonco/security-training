@@ -99,6 +99,7 @@ Plusieurs axes se dégagent :
 * [Web Security Digest](https://portswigger.net/daily-swig)
 
 ### Livres
+* [La liste des ouvrages à lire](https://cybercanon.paloaltonetworks.com/)
 * [OWASP: a guide to building secure web applications](https://simplonstgo.gitbook.io/owasp-guide)
 * [Secure by design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80)
 * [Sécuriser les API](https://www.manning.com/books/understanding-api-security)
