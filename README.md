@@ -23,6 +23,7 @@ Plusieurs axes se dégagent :
 * https://observatory.mozilla.org/
 
 ## Références
+* [Calendrier de l'avent](https://security.christmas/)
 * [Vulnérabilités fréquentes et comment s'en prémunir](https://fr.slideshare.net/CERCatIIITD/web-application-security-101)
 * [Hacker 101](https://github.com/Hacker0x01/hacker101)
 * [OWASP : une commmunauté dédiée à ce sujet](https://www.owasp.org/index.php/Main_Page)
