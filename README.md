@@ -79,6 +79,7 @@ Plusieurs axes se dégagent :
 
 ## Ressources
 * [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+* [Cheat sheets OWASP](https://cheatsheetseries.owasp.org/)
 * [Le plein de MOOCs gratuits](https://www.cyberdegrees.org/resources/free-online-courses/)
 * [SQLZoo Hack](http://sqlzoo.net/hack/)
 * [TEDx - Hacking 101](https://www.youtube.com/watch?v=nnKh6SFEaLg)
